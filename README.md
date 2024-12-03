@@ -13,10 +13,9 @@ Developer & Graphic Designer | CSE Undergraduate | Exploring tech & creativity  
 ![](https://github-profile-trophy.vercel.app/?username=Prithvi-Bytes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+"The best way to predict the future is to create it." — Alan Kay
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Prithvi-Bytes&limit=5&theme=dark&combine_all_yearly_contributions=true)
+It means that by writing code and solving problems, you shape the technology that will define the future. As a developer, your work is an active part of creating what's next!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Prithvi-Bytes&icon=0&color=0)](https://visitcount.itsvg.in)
