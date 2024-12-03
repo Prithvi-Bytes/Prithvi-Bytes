@@ -16,17 +16,22 @@ Developer & Graphic Designer | CSE Undergraduate | Exploring tech & creativity  
 
 Here are some of the YouTube videos from which I learned coding:
 
-### My Favorite Coding YouTubers
+<a href="https://youtu.be/yGB9jhsEsr8?si=8YNJ_A-ESNHdl6Tj">
+  <img src="https://img.youtube.com/vi/yGB9jhsEsr8/maxresdefault.jpg" width="200" />
+</a>
 
-Here are some of the YouTube videos from which I learned coding:
+<a href="https://youtu.be/ZSPZob_1TOk?si=FFqgCFyY_0Kd4OvF">
+  <img src="https://img.youtube.com/vi/ZSPZob_1TOk/maxresdefault.jpg" width="200" />
+</a>
 
-[![Coding Tutorial - yGB9jhsEsr8](https://img.youtube.com/vi/yGB9jhsEsr8/maxresdefault.jpg)](https://youtu.be/yGB9jhsEsr8?si=8YNJ_A-ESNHdl6Tj)
+<a href="https://youtu.be/HcOc7P5BMi4?si=eGtby8DD87JZ7mdp">
+  <img src="https://img.youtube.com/vi/HcOc7P5BMi4/maxresdefault.jpg" width="200" />
+</a>
 
-[![Coding Basics - ZSPZob_1TOk](https://img.youtube.com/vi/ZSPZob_1TOk/maxresdefault.jpg)](https://youtu.be/ZSPZob_1TOk?si=FFqgCFyY_0Kd4OvF)
+<a href="https://youtu.be/Ez8F0nW6S-w?si=3x5HJD9wqBOjR8E-">
+  <img src="https://img.youtube.com/vi/Ez8F0nW6S-w/maxresdefault.jpg" width="200" />
+</a>
 
-[![Advanced Coding Concepts - HcOc7P5BMi4](https://img.youtube.com/vi/HcOc7P5BMi4/maxresdefault.jpg)](https://youtu.be/HcOc7P5BMi4?si=eGtby8DD87JZ7mdp)
-
-[![Coding Strategies - Ez8F0nW6S-w](https://img.youtube.com/vi/Ez8F0nW6S-w/maxresdefault.jpg)](https://youtu.be/Ez8F0nW6S-w?si=3x5HJD9wqBOjR8E-)
 
 
 Feel free to check out these amazing creators who helped me grow in coding!
