@@ -12,6 +12,18 @@ Developer & Graphic Designer | CSE Undergraduate | Exploring tech & creativity  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Prithvi-Bytes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### My Favorite Coding YouTubers
+
+Here are some of the YouTube videos from which I learned coding:
+
+1. [Video 1: Coding Tutorial - yGB9jhsEsr8](https://youtu.be/yGB9jhsEsr8?si=8YNJ_A-ESNHdl6Tj)
+2. [Video 2: Coding Basics - ZSPZob_1TOk](https://youtu.be/ZSPZob_1TOk?si=FFqgCFyY_0Kd4OvF)
+3. [Video 3: Advanced Coding Concepts - HcOc7P5BMi4](https://youtu.be/HcOc7P5BMi4?si=eGtby8DD87JZ7mdp)
+4. [Video 4: Coding Strategies - Ez8F0nW6S-w](https://youtu.be/Ez8F0nW6S-w?si=3x5HJD9wqBOjR8E-)
+
+Feel free to check out these amazing creators who helped me grow in coding!
+
+
 ### ✍️ Random Developer Quote
 “Programming isn't about what you know; it's about what you can figure out.” — Chris Pine
 
