@@ -41,9 +41,7 @@ Feel free to check out these amazing creators who helped me grow in coding!
 “Programming isn't about what you know; it's about what you can figure out.” — Chris Pine
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Prithvi-Bytes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=Prithvi-Bytes&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Prithvi-Bytes&label=Profile%20Views&color=0&icon=2&pretty=true" />
 </a>
